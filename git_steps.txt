@@ -1,0 +1,10 @@
+Git Steps:
+-------------------
+touch abc.txt
+vi abc.txt
+git status
+git add abc.txt
+git commit -m "added new file abc.txt"
+git status
+git log
+git show <commit id>
