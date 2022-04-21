@@ -8,3 +8,11 @@ git commit -m "added new file abc.txt"
 git status
 git log
 git show <commit id>
+
+Adding git remote repo url
+ git remote add origin https://github.com/Dev-Raj-Ops/Dev-Raj-Ops.git
+  git ls-files
+  git push origin master
+  git branch
+  git status
+  
