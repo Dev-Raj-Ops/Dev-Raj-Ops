@@ -1,3 +1,4 @@
 Hi.
 This file was created using git bash.
-Adding new line
+
+Removed 3rd line.
