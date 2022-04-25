@@ -15,4 +15,3 @@ Adding git remote repo url
   git push origin master
   git branch
   git status
-  
